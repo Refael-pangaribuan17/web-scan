@@ -1,0 +1,3 @@
+fastapi uvicorn[standard] httpx beautifulsoup4 tldextract dnspython
+cryptography pyjwt jinja2 weasyprint redis rq pydantic sqlalchemy aiosqlite
+python-multipart
